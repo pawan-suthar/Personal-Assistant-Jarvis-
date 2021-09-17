@@ -9,7 +9,6 @@
 Required modules 
 
 ```bash
-  pip install python-opencv
   pip install time
   pip install pyttsx3
   pip install pywikihow
