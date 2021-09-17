@@ -100,11 +100,9 @@ stable
 
 
 ## LIMITATIONS
- Security is somewhere an issue, there is no voice command encryption in this 
+Security is somewhere an issue, there is no voice command encryption in this 
 project.
-
 Background voice can interfere
-
 Misinterpretation because of accents and may cause inaccurate results.
 
 JARVIS cannot be called externally anytime like other traditional assistants 
@@ -112,15 +110,13 @@ like Google Assistant can be called just by saying, “Ok Google!”
 
 ## SCOPE FOR FUTURE WORK
 Make JARVIS to learn more on its own and develop a new skill in it.
-
 JARVIS android app can also be developed.
-
 Make more Jarvis voice terminals.
-
 Voice commands can be encrypted to maintain security
+
+
+
 ## Features
-
-
 - It can send emails. 
 - It can open command prompt, your favorite IDE, notepad etc.
 - It can play music.
@@ -143,6 +139,9 @@ Voice commands can be encrypted to maintain security
 - shutdown the system 
 
 
+
+## pyaudio error 
+if you face error n pyaudio then a working module is added in this project just install that  
   
 ## 🔗 Links
 
